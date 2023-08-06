@@ -135,4 +135,4 @@
 <br>
 문의사항, 문의관리
 <br>
-<img width="800" src="https://github.com/Hongmebuilding/Leisurvation/assets/87316411/04802b3e-2129-4f0c-8b21-4d88f5417f46">
+<img width="600" src="https://github.com/Hongmebuilding/Leisurvation/assets/87316411/04802b3e-2129-4f0c-8b21-4d88f5417f46">
