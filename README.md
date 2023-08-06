@@ -1,6 +1,6 @@
 # Campnic - JPA, Thymeleaf 프로젝트
 
-## Team
+## Team 와장창2.0
 **이수민**(팀장) : 
 캠핑용품(유저), 캠핑용품 (관리자), 날씨api<br/>
 **남기문** : 
@@ -55,6 +55,7 @@
     - 캠핑 예약 및 렌탈 요청
     - 예약 후 쿠폰 번호 발급 및 사용시 포인트 적립, 발급되지 않은 쿠폰번호이거나 이미 사용한 쿠폰 번호일시 X
     - Qna 작성 가능
+    - 마이페이지지
     - 캠핑장 또는 렌탈 예약날짜가 지났을 시 취소 불가 그 외에는 취소 가능
     
   
@@ -85,3 +86,53 @@
 
 ![image](https://github.com/namgimun99/Campnic/assets/124684039/6914ed06-9bc1-48ce-b998-48f18d37d94b)
 
+### 🛠️ API
+
+![image](https://github.com/Hongmebuilding/Leisurvation/assets/87316411/3cf7e575-66df-463a-8c68-933b5822f3c1) 
+<br>소셜 로그인<br>
+![image](https://github.com/Hongmebuilding/Campnic/assets/87316411/e52ef8b6-d50d-4d6b-af85-5012835d9f51)
+<br>Open Weather
+
+### 📖 Story Board
+- 회원가입, 로그인페이지
+- 관리자, 메인 페이지
+- 마이페이지<br>
+ 	-관리자<br>
+ 	-일반유저<br>
+ 	-렌탈관리자<br>
+  	-캠핑장관리자<br>
+- 렌탈 예약 페이지
+- 렌탈 목록 페이지
+- 렌탈 상세 페이지
+- 렌탈 관리 페이지
+- 캠핑장 예약 페이지
+- 캠핑장 등록 페이지
+- 캠핑장 관리 페이지 
+- 권한 요청 승인 페이지
+- 영수증 페이지
+- 쿠폰 등록 페이지 
+- qna 모두 보기, 상세 페이지
+- qna 팝업창, qna 댓글 팝업
+
+### 📊 Flow Chart
+<br>
+회원가입, 로그인
+<br>
+<img width="800" src="https://github.com/Hongmebuilding/Leisurvation/assets/87316411/99ab4a2e-cd30-464b-babe-dac0002ecec8">
+<br>
+권한 요청
+<br>
+<img width="250" src="https://github.com/Hongmebuilding/Campnic/assets/87316411/d51e59da-1757-4631-a7df-c8911904ba86">
+
+<br>
+렌탈샵 등록, 렌탈, 도시 등록
+<br>
+<img width="800" src="https://github.com/Hongmebuilding/Campnic/assets/87316411/f1f85754-3c21-4acd-afe1-e22a28e3c0b2">
+<br>
+캠핑장 등록, 캠핑 예약, 쿠폰 사용
+<br>
+<img width="800" src="https://github.com/Hongmebuilding/Campnic/assets/87316411/e8209d78-f12f-4bec-809e-2130b226ad77">
+<br>
+문의사항, 문의관리
+<br>
+<img width="800" src="https://github.com/Hongmebuilding/Leisurvation/assets/87316411/04802b3e-2129-4f0c-8b21-4d88f5417f46">
